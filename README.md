@@ -28,7 +28,8 @@ An **Amazon SageMaker notebook instance** is a fully managed ML compute instance
 
 1. In the AWS Management Console, click on Services, type “SageMaker” and press enter.
 	
-	<img src="images/search_sagemaker.png" alt="Search SageMaker" width="700px" />
+	<img src="images/search_sagemaker.png" alt="Search SageMaker" width="700px" />
+
 2. You’ll be placed in the Amazon SageMaker dashboard. Click on **Notebook instances** either in the landing page or in the left menu.
 	
 	<img src="images/sagemaker_dashboard.png" alt="SageMaker dashboard" width="700px" />
@@ -83,7 +84,7 @@ As a consequence, in this section we will clone the GitHub repository into the A
 
 	```
 	cd SageMaker/
-	git clone https://github.com/aws-samples/reinvent2019-aim362-sagemaker-debugger-model-monitor.git
+	git clone https://github.com/phonghuule/reinvent2019-aim362-sagemaker-debugger-model-monitor.git
 	```
 
 3. When the clone operation completes, the folder **reinvent2019-aim362-sagemaker-debugger-model-monitor** will appear automatically in the file browser on the left (if not, you can hit the **Refresh** button)
